@@ -7,12 +7,12 @@
 <h2 align="left">Cybersecurity • Red Team • Creative Systems</h2>
 
 <p align="left">
-  Atuo com foco em <strong>Cibersegurança ofensiva</strong>, testes de intrusão, análise de vulnerabilidades e estudo de comportamento adversário.
-  Minha abordagem combina pensamento lógico, programação de baixo nível e documentação clara para entender sistemas, encontrar falhas e propor correções com impacto real.
+  I work with a strong focus on <strong>offensive cybersecurity</strong>, penetration testing, vulnerability analysis, and adversarial thinking.
+  My approach combines logical reasoning, low-level programming, system analysis, and clear technical documentation to understand complex environments, identify weaknesses, and propose effective security improvements.
 </p>
 
 <p align="left">
-  Também desenvolvo projetos de escrita criativa e arquitetura narrativa. Atualmente trabalho no <strong>Solon</strong>, uma aplicação voltada para criação, organização e desenvolvimento de histórias.
+  I also develop creative writing and narrative architecture projects. I am currently building <strong>Solon</strong>, an application focused on organizing stories, worlds, characters, ideas, and creative writing projects.
 </p>
 
 ---
@@ -20,7 +20,7 @@
 <h2 align="left">Cybersecurity Focus</h2>
 
 <p align="left">
-  Red Team • Pentest • Vulnerability Analysis • Linux Security • Defensive Analysis • Threat Modeling • Secure Systems
+  Red Team • Penetration Testing • Vulnerability Analysis • Linux Security • Defensive Analysis • Threat Modeling • Secure Systems
 </p>
 
 <div align="left">
@@ -37,7 +37,7 @@
 
 <h2 align="left">Advanced Knowledge</h2>
 
-<h3 align="left">Systems & Low-level Programming</h3>
+<h3 align="left">Systems & Low-Level Programming</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="26" alt="c logo" />
@@ -54,13 +54,15 @@
 <h3 align="left">Security, Infrastructure & Tools</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="26" alt="git logo" />
+  <img src="https://img.shields.io/badge/Cybersecurity-7D22A7?style=for-the-badge" height="26" alt="cybersecurity badge" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge" height="26" alt="offensive security badge" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="26" alt="linux logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="26" alt="git logo" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="26" alt="postgresql logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo" />
 </div>
 
 ---
@@ -91,6 +93,8 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="26" alt="tailwindcss logo" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="26" alt="bootstrap logo" />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="26" alt="postgresql logo" />
 </div>
 
 ---
@@ -100,7 +104,7 @@
 <h3 align="left">Solon</h3>
 
 <p align="left">
-  Uma aplicação de escrita criativa focada em estrutura narrativa, organização de mundos, personagens, ideias e desenvolvimento de projetos literários.
+  A creative writing application designed for narrative structure, worldbuilding, character development, idea management, and long-form writing projects.
 </p>
 
 <div align="left">
@@ -116,7 +120,7 @@
 <h2 align="left">Creative & Technical Edge</h2>
 
 <p align="left">
-  Minha experiência com narrativa influencia diretamente minha forma de analisar sistemas.
-  Um sistema seguro, assim como uma boa história, depende de estrutura, consistência e ausência de contradições.
-  Uso essa visão para investigar falhas, organizar informações complexas e transformar análise técnica em documentação clara.
+  My background in narrative design directly shapes the way I analyze systems.
+  A secure system, much like a strong story, depends on structure, consistency, and the absence of contradictions.
+  I use that perspective to investigate flaws, organize complex information, and translate technical analysis into clear documentation.
 </p>
