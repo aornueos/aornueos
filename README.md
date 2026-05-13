@@ -20,7 +20,6 @@
 <h2 align="left">Cybersecurity Focus</h2>
 
 <p align="left">
-  Red Team • Penetration Testing • Vulnerability Analysis • Linux Security • Defensive Analysis • Threat Modeling • Secure Systems
 </p>
 
 <div align="left">
