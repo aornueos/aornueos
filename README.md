@@ -104,7 +104,7 @@
 <h3 align="left">Solon</h3>
 
 <p align="left">
-  A creative writing application designed for narrative structure, worldbuilding, character development, idea management, and long-form writing projects.
+  A creative writing application designed for narrative structure, worldbuilding, character development, idea management, and long-form writing projects. A writer focuses alternative to Obsidian.
 </p>
 
 <div align="left">
