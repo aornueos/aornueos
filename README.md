@@ -19,8 +19,6 @@
 
 <h2 align="left">Cybersecurity Focus</h2>
 
-<p align="left">
-</p>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Red%20Team-7D22A7?style=for-the-badge" height="26" alt="red team badge" />
