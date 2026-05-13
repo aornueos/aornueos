@@ -114,13 +114,3 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Worldbuilding-222222?style=for-the-badge" height="26" alt="worldbuilding badge" />
 </div>
-
----
-
-<h2 align="left">Creative & Technical Edge</h2>
-
-<p align="left">
-  My background in narrative design directly shapes the way I analyze systems.
-  A secure system, much like a strong story, depends on structure, consistency, and the absence of contradictions.
-  I use that perspective to investigate flaws, organize complex information, and translate technical analysis into clear documentation.
-</p>
