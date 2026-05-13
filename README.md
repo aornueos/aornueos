@@ -91,11 +91,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="26" alt="postgresql logo" />
 </div>
 
----
-
-<h2 align="left">Creative & Technical Edge</h2>
-
-<p align="left">
-  My background in narrative design shapes how I analyze systems:
-  structure, consistency, causality, and contradiction matter in both secure software and strong storytelling.
-</p>
