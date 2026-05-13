@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Cybersecurity • Red Team • Creative Systems</h2>
+<h2 align="left">Cybersecurity • Blue Team • Creative Systems</h2>
 
 <p align="left">
-  I work with offensive cybersecurity, penetration testing, vulnerability analysis, and adversarial thinking.
-  My focus is understanding how systems fail, how attackers think, and how technical weaknesses can be translated into clear, actionable security improvements.
+  I work with cybersecurity, vulnerability analysis, defensive thinking, and secure systems.
+  My focus is understanding how systems fail, how threats behave, and how technical weaknesses can be translated into clear, actionable security improvements.
 </p>
 
 ---
@@ -34,15 +34,15 @@
 <h2 align="left">Main Focus</h2>
 
 <p align="left">
-  Red Team • Penetration Testing • Vulnerability Analysis • Linux Security • Threat Modeling • Secure Systems
+  Blue team • Defensive Security • Vulnerability Analysis • Linux Security • Threat Modeling • Secure Systems
 </p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Red%20Team-7D22A7?style=for-the-badge" height="26" alt="red team badge" />
+  <img src="https://img.shields.io/badge/Blue%20Hat-7D22A7?style=for-the-badge" height="26" alt="blue hat badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Pentest-111111?style=for-the-badge" height="26" alt="pentest badge" />
+  <img src="https://img.shields.io/badge/Defensive%20Security-111111?style=for-the-badge" height="26" alt="defensive security badge" />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge" height="26" alt="cybersecurity badge" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Analysis-222222?style=for-the-badge" height="26" alt="vulnerability analysis badge" />
   <img width="5" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="26" alt="linux logo" />
 </div>
@@ -90,4 +90,3 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="26" alt="postgresql logo" />
 </div>
-
